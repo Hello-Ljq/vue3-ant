@@ -13,7 +13,7 @@ export default {
     Layouts
   },
   mounted() {
-    debugger
+
   }
 }
 </script>
